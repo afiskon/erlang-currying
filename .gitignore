@@ -1,0 +1,6 @@
+ebin
+logs
+deps
+doc
+*.swp
+*.beam

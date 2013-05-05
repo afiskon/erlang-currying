@@ -1,0 +1,12 @@
+{application, curried,
+ [
+  {description, "Currying in Erlang"},
+  {vsn, "0.1.0"},
+  {registered, []},
+  {applications, [
+                  kernel,
+                  stdlib
+                 ]},
+  {mod, { curried_app, []}},
+  {env, []}
+ ]}.
